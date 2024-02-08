@@ -9,5 +9,4 @@ class JavaRestMasterApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
